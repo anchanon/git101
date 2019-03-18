@@ -1,0 +1,5 @@
+bee bird 
+
+After edit file
+* git add filename
+* git commit -m "commit message"
